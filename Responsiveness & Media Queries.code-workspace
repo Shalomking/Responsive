@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\htmlflexbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsiveness & Media Queries",
+		"liveServer.settings.port": 5501
+	}
+}
